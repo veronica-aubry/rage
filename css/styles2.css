@@ -1,0 +1,22 @@
+.container {
+  max-width: 600px;
+  margin-top: 200px;
+}
+
+.header {
+  max-width: 100%;
+}
+
+.red {
+  background-color: #ff6666;
+  color: white;
+}
+
+#uppercase {
+  font-size: 40px;
+}
+
+#exclamation {
+  display: none;
+  font-size: 40px;
+}
